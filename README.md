@@ -92,6 +92,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/sujalrajpoot/sujalrajpoot/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="[https://github.com/sujalrajpoot/sujalrajpoot/blob/main/.github/workflows/snake.yml](https://github.com/sujalrajpoot/sujalrajpoot/blob/main/.github/workflows/snake.yml)" alt="Snake animation" />
 
 ###
