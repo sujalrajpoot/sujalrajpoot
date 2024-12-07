@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujal Rajpoot</h1>
-<h2 align="center">A passionate Full Stack Developer from India</h2>
+<h2 align="center">A Passionate Full Stack Developer from India</h2>
 
 <p align="left"><img align="right" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
