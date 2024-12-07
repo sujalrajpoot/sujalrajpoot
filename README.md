@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/sujal-rajpoot-469888305/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sujal Rajpoot LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__sujal_rajpoot__/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sujal Rajpoot Instagram" height="30" width="40" /></a>
 <!-- Start of Selection -->
-<a href="https://t.me/sujalrajpoot70" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="Sujal Rajpoot Telegram" width="35" height="40" /></a>
+<a href="https://t.me/sujalrajpoot70" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="Sujal Rajpoot Telegram" width="33" height="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
