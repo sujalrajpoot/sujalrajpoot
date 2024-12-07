@@ -31,3 +31,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sujalrajpoot&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### Snake is eating my contributions
+![snake gif](https://github.com/sujalrajpoot/sujalrajpoot/blob/output/github-contribution-grid-snake.gif)
