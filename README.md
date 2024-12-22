@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Webscout](https://github.com/sujalrajpoot/Webscout)
 
-- 🌱 I’m currently learning **CrewAI, Custom Fine-tuning, etc**
+- 🌱 I’m currently learning **CrewAI, Custom Fine-tuning and Training Specialized Models from Scratch etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
