@@ -1,4 +1,4 @@
-![Sujal Rajpoot](https://github.com/sujalrajpoot/sujalrajpoot/blob/4c98adb90c521d5c2592c899ecf48b661d62006d/IMG_20250709_103645.png?raw=true)
+![Sujal Rajpoot](https://github.com/sujalrajpoot/sujalrajpoot/blob/456732eed11a21445fd5913c8ed3a14186bfb3a4/IMG_20250709_104024.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Sujal Rajpoot</h1>
 <h2 align="center">A Passionate Full Stack Python Developer from India</h2>
