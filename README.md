@@ -5,7 +5,7 @@
 
 <p align="left"><img align="right" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
   
-- 🚀 I’m currently working on [TrueSyncAI](https://github.com/TrueSync-AI)
+- 🚀 I’m currently working on [TrueSyncAI](https://preview--truesync-ai.lovable.app/)
 - 🌱 I’m currently learning **CrewAI, Custom Fine-tuning and Training Specialized Models from Scratch etc.**
 
 <h3 align="left">Connect with me:</h3>
