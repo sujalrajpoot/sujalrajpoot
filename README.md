@@ -39,12 +39,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujalrajpoot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujalrajpoot&show_icons=true&locale=en" alt="sujalrajpoot" /></p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujalrajpoot&show_icons=true&locale=en" alt="sujalrajpoot" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalrajpoot" alt="sujalrajpoot" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalrajpoot&" alt="sujalrajpoot" /></p>
+<h3 align="center">🔝 Top Contributed Repo</h3>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sujalrajpoot&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sujalrajpoot&limit=5&theme=flat&combine_all_yearly_contributions=true" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
