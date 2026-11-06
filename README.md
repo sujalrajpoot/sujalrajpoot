@@ -27,8 +27,10 @@
 </div>
 
 ---
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalrajpoot" alt="sujalrajpoot" />
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalrajpoot" alt="sujalrajpoot" />
+  </div>
 </div>
 
 ## 📊 GitHub Stats
