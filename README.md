@@ -36,13 +36,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujalrajpoot&theme=tokyonight" alt="profile details" />
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sujalrajpoot&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" />
-
-<img height="180" src="https://github-readme-streak-stats.demolab.com/?user=sujalrajpoot&theme=tokyonight&hide_border=true" alt="streak" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalrajpoot&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top languages" />
-
 </div>
 
 <div align="center">
