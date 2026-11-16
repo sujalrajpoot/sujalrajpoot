@@ -21,7 +21,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,ts,nodejs,react,pytorch,tensorflow,sklearn,opencv,pandas,git,github,vscode&perline=8" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,ts,nodejs,react,pytorch,tensorflow,sklearn,opencv,redis,git,github,vscode&perline=8" alt="tech stack" />
 </a>
 
 </div>
